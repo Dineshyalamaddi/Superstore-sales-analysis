@@ -16,7 +16,7 @@ End-to-end EDA and visualization project on Superstore dataset using Python (pan
 - 🏆 **Most profitable products**
 
 ## 📁 Notebook File
-[Business Insights of Super Store.ipynb](./Business%20Insights%20of%20Super%20Store.ipynb)
+[Business Insights and Sales Analysis of Superstore Data.ipynb](./Business%20Insights%20and%20Sales%20Analysis%20of%20Superstore%20Data.ipynb)
 
 ---
 
